@@ -54,3 +54,6 @@ result, list_sums = highest_consecutive_sum(list_numbers)
 print(f"This is the list of consecutive sums: {list_sums}")
 # It is used to call the function and display the result.
 print(f"The largest sum of consecutive elements is: {result}") 
+
+# Return to the main README: 
+# https://github.com/dabarretor/Reto-1-Codigo-de-Python
