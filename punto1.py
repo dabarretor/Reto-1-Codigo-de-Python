@@ -67,3 +67,5 @@ while True:
                 num2 = float(input("write another number: "))
             else:
                 print(f"the result is: {num1/num2}")
+
+# Return to the main README: https://github.com/dabarretor/Reto-1-Codigo-de-Python
