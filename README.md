@@ -11,12 +11,12 @@
 
 Cada codigo esta organizado con su explicación en estos links:
 
-- [punto_1](reto1/punto1)
+- [punto_1](reto1/punto1.py)
 
-- [punto_2](reto1/punto2)
+- [punto_2](reto1/punto2.py)
 
-- [punto_3](reto1/punto3)
+- [punto_3](reto1/punto3.py)
 
-- [punto_4](reto1/punto4)
+- [punto_4](reto1/punto4.py)
 
-- [punto_5](reto1/punto5)
+- [punto_5](reto1/punto5.py)
