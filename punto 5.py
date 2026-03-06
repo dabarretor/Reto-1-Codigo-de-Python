@@ -35,4 +35,8 @@ if __name__ == "__main__":
         print(f"\nList of words entered: {words}")
         print(f" Result of words with same characters:  {Result}")
     else:
+
         print("You didn't enter any words.")
+
+# Return to the main README: 
+# https://github.com/dabarretor/Reto-1-Codigo-de-Python
