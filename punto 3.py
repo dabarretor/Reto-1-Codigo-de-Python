@@ -16,7 +16,8 @@ while True:
 
 while True:
     try:
-        range_numbers = int(input("¿What is the range of the numbers? (from 1 to...): "))
+        range_numbers = int(input("¿What is the range of the numbers? (from" \
+        " 1 to...): "))
         if range_numbers <= 0:
             print("Please enter a valid integer greater than 0.")
         else:
@@ -49,7 +50,8 @@ for num in list_numbers:
     if prime_number(num):
         # Adds the generated number to the list of prime numbers.
         prime_numbers.append(num) 
-print(f"This is the list of prime numbers, taking the previous list as reference: {prime_numbers}")
+print(f"This is the list of prime numbers, taking the previous list as" 
+      f" reference: {prime_numbers}")
 
 # Return to the main README: 
 # https://github.com/dabarretor/Reto-1-Codigo-de-Python
